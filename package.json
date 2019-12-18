@@ -1,0 +1,26 @@
+{
+  "name": "electron-zoom-web-sdk",
+  "version": "1.0.0",
+  "description": "A Electron application with zoom web sdk",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Milan Krushna",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "url": "^0.11.0"
+  }
+}
